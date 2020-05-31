@@ -1,0 +1,5 @@
+habitbotenv/
+src/config/auth.py
+src/config/__pycache__/
+db.json
+.vscode/
